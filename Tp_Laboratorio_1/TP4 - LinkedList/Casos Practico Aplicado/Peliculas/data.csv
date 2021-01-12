@@ -1,0 +1,6 @@
+id_venta, nombre_pelicula, dia, horario, sala, cantidad_entradas
+1,END GAME,1,11:15,3,2
+2,TOY STORY 4,2,11:30,2,3
+3,TOp gun,5,16:40,5,4
+4,AVATAR,2,1:30,1,3
+5,SHREK,0,12:00,2,6
